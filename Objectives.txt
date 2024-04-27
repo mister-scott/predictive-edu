@@ -1,8 +1,6 @@
-1) Fitting data to multi-order line
 2) Fitting data to other equation
 3) Predicting time series
 4) Categorical prediction
-6) Monte Carlo
 7) Markov Chains
 8) Support Vector Machines
 9) Decision Trees
@@ -12,3 +10,9 @@
 13) Natural Language Processing
 14) Image Recognition
 15) Clustering Algorithms
+
+Done:
+6) Monte Carlo (Circuits)
+1) Linear Regressions - Fitting data to multi-order line
+2) Linear Regressions - Predicting values
+3) Linear Regressions - Calibrating values
