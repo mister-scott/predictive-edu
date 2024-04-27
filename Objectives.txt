@@ -2,5 +2,13 @@
 2) Fitting data to other equation
 3) Predicting time series
 4) Categorical prediction
-5) RNN
 6) Monte Carlo
+7) Markov Chains
+8) Support Vector Machines
+9) Decision Trees
+10) Random Forests
+11) Gradient Boosting
+12) Neural Networks
+13) Natural Language Processing
+14) Image Recognition
+15) Clustering Algorithms
