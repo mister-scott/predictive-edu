@@ -1,1 +1,4 @@
 /venv
+*.raw
+*.log
+*.plt
