@@ -1,0 +1,6 @@
+1) Fitting data to multi-order line
+2) Fitting data to other equation
+3) Predicting time series
+4) Categorical prediction
+5) RNN
+6) Monte Carlo
